@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>G:\Arquivos\Estudo\TI\Web\WCF\Fontes\NB\WCFService\WCFServiceHost\bin\Release\PublishOutput</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/WCFService.dll">
+      <publishTime>06/26/2018 19:43:34</publishTime>
+    </File>
+    <File Include="bin/WCFService.dll.config">
+      <publishTime>06/26/2018 18:35:48</publishTime>
+    </File>
+    <File Include="bin/WCFService.pdb">
+      <publishTime>06/26/2018 19:43:34</publishTime>
+    </File>
+    <File Include="bin/WCFServiceHost.dll">
+      <publishTime>06/26/2018 19:43:35</publishTime>
+    </File>
+    <File Include="bin/WCFServiceHost.pdb">
+      <publishTime>06/26/2018 19:43:35</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>06/26/2018 19:27:23</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/26/2018 19:43:36</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

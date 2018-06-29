@@ -1,0 +1,10 @@
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCSF\WcfServiceLibrary1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCSF\WcfServiceLibrary1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCSF\WcfServiceLibrary1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCSF\WcfServiceLibrary1\WindowsApplication1\obj\Debug\WindowsApplication1.csprojResolveAssemblyReference.cache
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCSF\WcfServiceLibrary1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCSF\WcfServiceLibrary1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCSF\WcfServiceLibrary1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.cache
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCSF\WcfServiceLibrary1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.CoreCompileInputs.cache
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCSF\WcfServiceLibrary1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCSF\WcfServiceLibrary1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

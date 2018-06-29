@@ -1,0 +1,9 @@
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCT\Wcf_Exemplo\windows_WCF\bin\Debug\windows_WCF.exe.config
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCT\Wcf_Exemplo\windows_WCF\bin\Debug\windows_WCF.exe
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCT\Wcf_Exemplo\windows_WCF\bin\Debug\windows_WCF.pdb
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCT\Wcf_Exemplo\windows_WCF\obj\Debug\windows_WCF.Form1.resources
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCT\Wcf_Exemplo\windows_WCF\obj\Debug\windows_WCF.Properties.Resources.resources
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCT\Wcf_Exemplo\windows_WCF\obj\Debug\windows_WCF.csproj.GenerateResource.cache
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCT\Wcf_Exemplo\windows_WCF\obj\Debug\windows_WCF.csproj.CoreCompileInputs.cache
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCT\Wcf_Exemplo\windows_WCF\obj\Debug\windows_WCF.exe
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCT\Wcf_Exemplo\windows_WCF\obj\Debug\windows_WCF.pdb

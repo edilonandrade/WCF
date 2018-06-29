@@ -1,0 +1,6 @@
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\NB\WCFService\WCFService\bin\Release\WCFService.dll.config
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\NB\WCFService\WCFService\bin\Release\WCFService.dll
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\NB\WCFService\WCFService\bin\Release\WCFService.pdb
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\NB\WCFService\WCFService\obj\Release\WCFService.csproj.CoreCompileInputs.cache
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\NB\WCFService\WCFService\obj\Release\WCFService.dll
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\NB\WCFService\WCFService\obj\Release\WCFService.pdb

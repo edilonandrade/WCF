@@ -1,0 +1,7 @@
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCT\Wcf_Exemplo\Wcf_Exemplo\bin\Wcf_Exemplo.dll.config
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCT\Wcf_Exemplo\Wcf_Exemplo\bin\Wcf_Exemplo.dll
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCT\Wcf_Exemplo\Wcf_Exemplo\bin\Wcf_Exemplo.pdb
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCT\Wcf_Exemplo\Wcf_Exemplo\obj\Release\Wcf_Exemplo.csprojResolveAssemblyReference.cache
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCT\Wcf_Exemplo\Wcf_Exemplo\obj\Release\Wcf_Exemplo.csproj.CoreCompileInputs.cache
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCT\Wcf_Exemplo\Wcf_Exemplo\obj\Release\Wcf_Exemplo.dll
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\MCT\Wcf_Exemplo\Wcf_Exemplo\obj\Release\Wcf_Exemplo.pdb

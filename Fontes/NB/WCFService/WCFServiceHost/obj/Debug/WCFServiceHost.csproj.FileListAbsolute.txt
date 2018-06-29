@@ -1,0 +1,11 @@
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\NB\WCFService\WCFServiceHost\bin\WCFServiceHost.dll.config
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\NB\WCFService\WCFServiceHost\bin\WCFServiceHost.dll
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\NB\WCFService\WCFServiceHost\bin\WCFServiceHost.pdb
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\NB\WCFService\WCFServiceHost\bin\WCFService.dll
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\NB\WCFService\WCFServiceHost\bin\WCFService.pdb
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\NB\WCFService\WCFServiceHost\bin\WCFService.dll.config
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\NB\WCFService\WCFServiceHost\obj\Debug\WCFServiceHost.csprojResolveAssemblyReference.cache
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\NB\WCFService\WCFServiceHost\obj\Debug\WCFServiceHost.csproj.CoreCompileInputs.cache
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\NB\WCFService\WCFServiceHost\obj\Debug\WCFServiceHost.csproj.CopyComplete
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\NB\WCFService\WCFServiceHost\obj\Debug\WCFServiceHost.dll
+G:\Arquivos\Estudo\TI\Web\WCF\Fontes\NB\WCFService\WCFServiceHost\obj\Debug\WCFServiceHost.pdb
